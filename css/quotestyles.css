@@ -15,8 +15,8 @@ body {
 }
 
 .quote-wrapper {
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   position: relative;
   margin: 10vh auto 0; /*OPTIONAL MARGIN*/
 }
